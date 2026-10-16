@@ -8,9 +8,11 @@
 
 ## 在线预览
 
-本项目可直接使用 **GitHub Pages** 托管，无需服务器或 ChatGPT 账号。
+**[打开在线预览 →](https://xxcool.github.io/fire-kirin-model/)**
 
-首次启用：进入仓库 **Settings → Pages**，将 Source 设为 **Deploy from a branch**，选择 **main / (root)**，点击 **Save**。部署完成后，页面顶部会显示可访问的预览地址。
+由 GitHub Pages 托管，无需登录或安装。打开即可旋转查看模型、切换视角和下载 GLB。
+
+发布源：**main / (root)**。
 
 后续提交到 main 的网页更新会自动发布。仓库根目录的 `index.html` 是已构建好的完整页面。
 
