@@ -1,0 +1,10 @@
+{
+  "identification": "CrossFire AK47 Fire Kirin decorative game prop; silver sculpted qilin head at handguard, extended gold blade below barrel, red eye, plated receiver, curved magazine and dark wood stock.",
+  "silhouette": "Long horizontal compound solid, muzzle toward -X, +Y up, +Z visible side. Organic head and layered plates contrast with straight receiver. Curved magazine extends downward and forward.",
+  "hierarchy": "receiver \u2192 top plates, rivets; head \u2192 jaw, horns, cheek scrolls, fangs, eye; barrel \u2192 sleeve, sight; stock \u2192 buttplate; magazine \u2192 ribs, floorplate; blade \u2192 inset ridge.",
+  "relationships": "Head overlaps receiver front and barrel sleeve. Blade root embeds beneath jaw. Magazine upper neck embeds beneath receiver; stock overlaps rear endcap. Decorative geometry only, no functional internals.",
+  "materials": "Silver raw metal, yellow gold trim, dark gunmetal recesses, brown wood and emissive red eye. Highlight intensity in photographs is not albedo.",
+  "finish": "Low roughness metal on raised edges; dark cavities. Wood shows long dark grain. Warm gold ridges contrast with neutral silver shells.",
+  "identity": "Swept gold blade, open snarling mouth, swept crest horns, bright red eye, crescent gold/silver magazine, stacked flame scales on receiver.",
+  "uncertainty": "Exact rear side, top/underside and carvings cannot be observed. Primary closeup crops both ends. Low-resolution original supplies silhouette; hidden shapes inferred with bilateral reflection. Fan reconstruction, not original asset."
+}

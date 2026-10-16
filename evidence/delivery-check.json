@@ -1,0 +1,12 @@
+{
+  "errors": [],
+  "mobile": {
+    "viewport": 390,
+    "body": 390,
+    "canvas": 390
+  },
+  "glbBytes": 1681692,
+  "meshes": 104,
+  "materials": 7,
+  "embeddedImages": 2
+}
